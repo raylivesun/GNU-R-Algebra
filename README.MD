@@ -8,7 +8,7 @@
 </head>
 <body>
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<h1 id="bigalgebra">bigalgebra <img src="README_files/logo.png" align="right" width="200"></h1>
+<h1 id="bigalgebra">bigalgebra <img src="logo.png" align="right" width="200"></h1>
 <h1 id="arithmetic-routines-for-native-r-matrices-and-big.matrix-objects">Arithmetic routines for native R matrices and big.matrix objects</h1>
 <h2 id="frédéric-bertrand-michael-j.-kane-bryan-lewis-john-w.-emerson">Frédéric Bertrand, Michael J. Kane, Bryan Lewis, John W. Emerson</h2>
 <!-- badges: start -->
